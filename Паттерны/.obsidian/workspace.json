@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "2e03159808997873",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c08d63c778182fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2a6d341fa2ed035",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a698b77bb08fac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e1d07857a71d244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3ad7bb60eba1e62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3be3bd6b95ac17eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "291bf5bdc7f5f233",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7544afc988b3a1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fccbf7bcd6a4d86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff7cf62c53a1d254",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34e1c9715745d03d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e738fd620387c30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "503660e1e160d6b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a2a6d341fa2ed035",
+  "lastOpenFiles": [
+    "Я вижу, куда ты клонишь.md",
+    "Движимое тайной исследование.md",
+    "Untitled.canvas",
+    "Мы отправляемся в тьму вместе.md",
+    "Игра не про тебя, но она для тебя.md",
+    "Лучше бы им иметь хорошее объяснение для этого.md",
+    "Три столпа значения в эмерджентом нарративе.md",
+    "Теория «Трех медведей размера уровня».md",
+    "Риск знать тебя.md",
+    "Временно недоступное пространство.md",
+    "Один из таких дней тебя убьёт.md",
+    "Старый я был боялся старого тебя, но новый я сильнее!.. и боюсь нового тебя.md",
+    "А теперь, наверное, мы займёмся этим.md",
+    "О! Получилось неожиданно хорошо.md",
+    "Больше или меньше убегания от себя.md",
+    "Знай свое прошлое, будущее и себя.md",
+    "Посмотри, кем ты стал!.md",
+    "Могу ли я сделать это один.md",
+    "Все зависит от того, как ты посмотришь на это.md",
+    "Я стараюсь так сильно как могу.md",
+    "Я могу быть спрятан в кору ореха и считать себя королем бесконечного пространства.md",
+    "Я думаю, ты должен знать.md",
+    "Принудительный лудонарративный резонанс.md",
+    "Привнося апокалипсис.md",
+    "Не интеллектуализируй мою боль.md",
+    "Игра «Познай себя».md",
+    "Атмосфера",
+    "Пространство",
+    "Игровые механики",
+    "Нарратив",
+    "shdbhfhsdbf"
+  ]
+}
